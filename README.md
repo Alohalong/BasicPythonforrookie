@@ -1,0 +1,2 @@
+# BasicPythonforrookie
+pratice
